@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\api\\API.csproj": {}
+    "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\api\\API.csproj": {
+    "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\pranjal.misra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pranjal.misra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -139,6 +139,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
             "Microsoft.DotNet.Watcher.Tools": {
               "target": "Package",
               "version": "[2.0.1, )"

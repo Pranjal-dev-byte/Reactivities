@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GlLcmW/mmy51qEs8yTbFoXA9MwRVkjInHcxq40jR3BV2SVY9KYa1kADiml5fDyC1LlsDqrLSL4c/o3yA/qzdKw==",
+  "dgSpecHash": "h1VOIzNvpJBfIjpuR2dKEVL4kcIzxvQhTe9rdOAWyOlla48T9xnMfWOGUz1G97xTCaHLQkITpVdfkb7LLLyLTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pranjal.misra\\Desktop\\Study_Material\\Reactivities\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.8\\microsoft.data.sqlite.core.8.0.8.nupkg.sha512",
     "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.dotnet.watcher.tools\\2.0.1\\microsoft.dotnet.watcher.tools.2.0.1.nupkg.sha512",
     "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
